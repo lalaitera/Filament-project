@@ -64,3 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 
+## Developer Information
+
+Kevin G. Gabrez IT student of STI College Tarlac
+28 Years Old Third Year Student
+Future Cyber Security
+
