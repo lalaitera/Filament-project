@@ -63,4 +63,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-
+## Developer Information
+Marc Albert F. Andres
+IT Student at STI College Tarlac
+09123456789
+Hit me up GitHub.com/mrcandrs
