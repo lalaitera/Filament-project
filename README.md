@@ -63,4 +63,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
+	```
+{
+  "Student No.:": "02000297761",
+  "Valorant Name:": "BLINK",
+  "age": 21
+}
+```
 
