@@ -6,6 +6,14 @@ this helps you to changes your perception<p align="center"><a href="https://lara
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Table of Contents
+- [About Laravel](#about-laravel)
+- [Learning Laravel](#learning-laravel)
+- [Laravel Sponsors](#laravel-sponsors)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Security Vulnerabilities](#security-vulnerabilities)
+- [License](#license)
 
 ## About Laravel
 
